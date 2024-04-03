@@ -1,2 +1,3 @@
 # NewsApp
 An on the go platform to keep you aware what's happening in the world.
+The NewsApp boasts small cards that contain eye-catching headlines, making it easy to quickly scan through the latest news and has a Read More option where  you can find the source of the news. Additionally, the app utilizes a gamified user interface created with the help of Salesforce app builder. To get the latest news, the Apex controller pulls data from a news API through a remote site setting , which is then displayed on the app page via an LWC component. With these features, the newsApp provides a seamless and engaging news browsing experience.
