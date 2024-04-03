@@ -1,2 +1,2 @@
 # NewsApp
-An on the go platform to keep up-to-date
+An on the go platform to keep you aware what's happening in the world.
